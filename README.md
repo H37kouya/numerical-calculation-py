@@ -1,3 +1,3 @@
-# uniform-random-average-py
+# 数値計算のメモ
 
 一様乱数がどの程度で収束するか調べる
